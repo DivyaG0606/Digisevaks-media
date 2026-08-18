@@ -1,0 +1,16 @@
+# Robots.txt for DigiSevaks Media Agency
+# Allow all crawlers to access the site
+
+User-agent: *
+Allow: /
+
+# Disallow specific paths if needed
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+# Sitemap location
+Sitemap: https://digisevaks.com/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1
