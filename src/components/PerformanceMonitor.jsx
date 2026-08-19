@@ -43,15 +43,19 @@ const PerformanceMonitor = () => {
     // Preload critical resources
     const preloadCriticalResources = () => {
       try {
-        // Preload fonts
-        const fontLink = document.createElement('link');
-        fontLink.rel = 'preload';
-        fontLink.as = 'font';
-        fontLink.type = 'font/woff2';
-        fontLink.crossOrigin = 'anonymous';
-        document.head.appendChild(fontLink);
+        // Only preload font if specific URL is specified
+        const fontHref = 'https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiA.woff2';
+        if (fontHref) {
+          const fontLink = document.createElement('link');
+          fontLink.rel = 'preload';
+          fontLink.href = fontHref;
+          fontLink.as = 'font';
+          fontLink.type = 'font/woff2';
+          fontLink.crossOrigin = 'anonymous';
+          document.head.appendChild(fontLink);
+        }
       } catch (error) {
-        console.log('Font preloading failed:', error);
+        // Silently catch error
       }
     };
 
