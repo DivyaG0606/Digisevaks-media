@@ -42,7 +42,7 @@ const PizzaMood = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Pizza Mood Case Study | Franchise Marketing Agency Pune | DigiSevaks"
         description="See how DigiSevaks Media helped Pizza Mood build a franchise lead generation engine through website development, SEO, and digital marketing."

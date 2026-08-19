@@ -41,7 +41,7 @@ const PerformanceMarketing = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="How Performance Marketing Increases Leads | DigiSevaks"
         description="Discover how performance marketing turns ad campaigns into a measurable growth system."

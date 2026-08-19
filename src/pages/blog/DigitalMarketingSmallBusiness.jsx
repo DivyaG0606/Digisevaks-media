@@ -41,7 +41,7 @@ const DigitalMarketingSmallBusiness = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Digital Marketing for Small Businesses | DigiSevaks"
         description="Discover how digital marketing helps small businesses build visibility, attract customers, and grow sales online."

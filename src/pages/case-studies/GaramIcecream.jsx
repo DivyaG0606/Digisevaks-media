@@ -42,7 +42,7 @@ const GaramIcecream = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Garam Icecream Case Study | Dessert Franchise Marketing Pune | DigiSevaks"
         description="See how DigiSevaks Media helped dessert brand Garam Icecream build a digital franchise marketing engine across Maharashtra."

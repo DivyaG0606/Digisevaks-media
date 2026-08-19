@@ -41,7 +41,7 @@ const ChooseDigitalMarketingAgency = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="How to Choose a Digital Marketing Agency | DigiSevaks"
         description="10 key factors to consider when selecting the right digital marketing agency for your business."

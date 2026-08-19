@@ -79,7 +79,7 @@ const About = () => {
   );
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="About Us — Empowering Businesses with Digital Growth in Pune | DigiSevaks Media"
         description="At DigiSevaks Media, we are a results-driven digital marketing agency in Pune providing SEO, web development, and performance marketing strategies for startups and SMEs across Maharashtra."

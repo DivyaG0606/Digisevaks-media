@@ -73,7 +73,7 @@ const CaseStudies = () => {
   ];
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Digital Marketing Case Studies — Real Results for Growing Businesses | DigiSevaks"
         description="See how DigiSevaks Media has helped restaurants, franchises, and salons grow through SEO, digital marketing, and website development."

@@ -41,7 +41,7 @@ const SEOFriendlyWebsite = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Why You Need an SEO-Friendly Website | DigiSevaks"
         description="Learn why an SEO-friendly website is the foundation of digital marketing success."

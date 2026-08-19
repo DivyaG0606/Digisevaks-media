@@ -272,7 +272,7 @@ const Services = () => {
   const allSchemas = [faqSchema, ...services.map(s => s.schema)];
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Digital Marketing Services Pune | SEO, Social Media, Google Ads, Web Development | DigiSevaks"
         description="Discover comprehensive digital marketing services by DigiSevaks - Pune's premier agency. Expert SEO, website development, Google Ads, Meta Ads, performance marketing, and franchise selling."

@@ -26,7 +26,7 @@ const Hero = () => {
   };
 
   return (
-    <section className="relative min-h-screen pt-44 md:pt-48 overflow-hidden bg-[#FDFBD4] pointer-events-auto">
+    <section className="relative min-h-screen pt-44 md:pt-48 overflow-hidden bg-[#F2EFE7] pointer-events-auto">
       {/* Unique Background Pattern */}
       <div className="absolute inset-0 opacity-5 z-0 pointer-events-none">
         <div className="absolute inset-0" style={{

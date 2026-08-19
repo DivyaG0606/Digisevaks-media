@@ -16,11 +16,11 @@ export default {
         },
         secondary: {
           DEFAULT: '#FFDD9C',
-          light: '#FDFBD4',
+          light: '#F2EFE7',
         },
         cream: {
           DEFAULT: '#ffd6a4',
-          light: '#FDFBD4',
+          light: '#F2EFE7',
         },
         accent: {
           DEFAULT: '#F9B637',

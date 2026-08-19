@@ -42,7 +42,7 @@ const GaneshBhel = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Ganesh Bhel Case Study | Food Franchise Marketing Pune | DigiSevaks"
         description="Discover how DigiSevaks Media empowered iconic street food brand Ganesh Bhel with digital franchise marketing and brand expansion strategies in Pune."

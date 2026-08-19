@@ -41,7 +41,7 @@ const AISearchOptimization = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="AI Search Optimization Strategy | DigiSevaks"
         description="Discover how AI Search Optimization complements SEO and prepares your brand for AI-driven search."

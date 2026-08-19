@@ -42,7 +42,7 @@ const AtmosSalon = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Atmos Salon Case Study | Salon Digital Marketing & SEO Pune | DigiSevaks"
         description="See how DigiSevaks Media built a modern website and digital marketing strategy for Atmos Salon to attract and retain salon clients in Pune."

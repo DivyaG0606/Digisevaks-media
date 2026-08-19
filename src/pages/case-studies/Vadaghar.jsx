@@ -42,7 +42,7 @@ const Vadaghar = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Vadaghar Case Study | QSR Franchise Marketing Pune | DigiSevaks"
         description="Discover how DigiSevaks Media established a scalable digital franchise marketing foundation for Vadaghar Vada Pav in Pune."

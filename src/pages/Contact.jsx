@@ -114,7 +114,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Get In Touch | Contact DigiSevaks Media Pune"
         description="Ready to grow your business? Contact DigiSevaks Media for a free digital marketing consultation in Pune. Visit our Karve Nagar office or call +91 84594 39131."

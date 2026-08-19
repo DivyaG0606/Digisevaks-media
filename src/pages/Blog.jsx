@@ -101,7 +101,7 @@ const Blog = () => {
   ];
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Blog - DigiSevaks Digital Marketing Agency | Expert Insights & Tips"
         description="Stay updated with the latest digital marketing insights, SEO tips, social media strategies, and industry trends from DigiSevaks experts in Pune, Maharashtra."

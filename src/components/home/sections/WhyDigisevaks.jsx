@@ -102,7 +102,7 @@ const WhyDigisevaks = () => {
   };
 
   return (
-    <section className="py-20 bg-[#FDFBD4] relative overflow-hidden">
+    <section className="py-20 bg-[#F2EFE7] relative overflow-hidden">
       {/* Animated background pattern */}
       <div className="absolute inset-0 opacity-5">
         <div className="absolute inset-0" style={{

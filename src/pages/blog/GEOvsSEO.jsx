@@ -41,7 +41,7 @@ const GEOvsSEO = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="GEO vs SEO: Optimizing for AI Search | DigiSevaks"
         description="Understand the difference between GEO and SEO and how to prepare your site for AI search."

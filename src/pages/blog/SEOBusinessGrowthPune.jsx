@@ -41,7 +41,7 @@ const SEOBusinessGrowthPune = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Why SEO Matters for Pune Businesses | DigiSevaks"
         description="Learn why SEO is essential for Pune businesses to get discovered online and attract local customers."

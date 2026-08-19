@@ -41,7 +41,7 @@ const AISEO = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="What Is AI SEO? Google Rankings Explained | DigiSevaks"
         description="Learn what AI SEO is and how to adapt your strategy for Google's AI-powered search era."

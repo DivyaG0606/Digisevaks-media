@@ -41,7 +41,7 @@ const ChatGPTGeminiAISearch = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Get Discovered on ChatGPT & Google AI Search | DigiSevaks"
         description="Learn how businesses can get discovered on ChatGPT, Gemini, and Google AI Search."

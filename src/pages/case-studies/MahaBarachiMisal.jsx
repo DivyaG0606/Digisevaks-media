@@ -42,7 +42,7 @@ const MahaBarachiMisal = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Maha Barachi Misal Case Study | Restaurant Franchise Marketing Pune | DigiSevaks"
         description="Learn how DigiSevaks Media drove franchise lead generation and online brand growth for Maharashtrian restaurant chain Maha Barachi Misal."

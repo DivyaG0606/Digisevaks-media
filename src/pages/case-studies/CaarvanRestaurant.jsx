@@ -42,7 +42,7 @@ const CaarvanRestaurant = () => {
   };
 
   return (
-    <div className="min-h-screen pt-64 pb-20 bg-[#FDFBD4]">
+    <div className="min-h-screen pt-64 pb-20 bg-[#F2EFE7]">
       <SEO 
         title="Caarvan Restaurant Case Study | Restaurant Marketing Pune | DigiSevaks"
         description="Explore how DigiSevaks Media enhanced digital visibility and local customer discovery for Caarvan Restaurant & Bar in Pune."
